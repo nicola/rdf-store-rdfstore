@@ -18,4 +18,4 @@ Taken from [zazukoians/trifid-ld](https://github.com/zazukoians/rdf-ext)
 
 ## Licence
 
-Apache 2
+MIT
