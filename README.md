@@ -1,11 +1,11 @@
-# rdf-store-rdfstore
+# rdf-store-rdfstore-js
 
 [Rdfstore-js](https://github.com/antoniogarrote/rdfstore-js) Store that follows the [RDF Interface](http://bergos.github.io/rdf-ext-spec/) specification
 
 ## Install
 
 ```
-npm install --save rdf-store-rdfstore
+npm install --save rdf-store-rdfstore-js
 ```
 
 ## Usage
