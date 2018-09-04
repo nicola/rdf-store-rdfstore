@@ -1,3 +1,5 @@
+# This package is no longer maintained and not compatible with the latest RDF-Ext version
+
 # rdf-store-rdfstore-js
 
 [Rdfstore-js](https://github.com/antoniogarrote/rdfstore-js) Store that follows the [RDF Interface](http://bergos.github.io/rdf-ext-spec/) specification
